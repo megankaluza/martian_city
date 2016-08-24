@@ -1,6 +1,6 @@
-# _Track Selector_
+# _Name_
 
-#### _Creating Friday Project for jQuery and JavaScript functions for Epicodus, 8/12/2016_
+#### _Project: functions for Epicodus, Date:_
 
 #### By _**Megan Kaluza**_
 
@@ -12,17 +12,15 @@ _This webpage displays a form with bootstrap, divs, checkboxes, ids, classes, jQ
 
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    _https://github.com/megankaluza/track_suggester.git_
+    __
 * _Open in text editor of your choice_
-*_Link to #_
+*
 
 ## Known Bugs
 
-_Need to fix "if" statements for proper functionality and results of the survey_
+_No known bugs at this time_
 
 ## Support and contact details
-
-_megan.kaluza@gmail.com_
 
 ## Technologies Used
 
