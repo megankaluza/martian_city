@@ -1,20 +1,19 @@
-# _Name_
+# _Terra Forma_
 
-#### _Project: functions for Epicodus, Date:_
+#### _Date:_
 
-#### By _**Megan Kaluza**_
+#### By _**Megan Kaluza, Marty Fitchen, Alex Jacks, Addison Nishijima**_
 
 ## Description
 
-_This webpage displays a form with bootstrap, divs, checkboxes, ids, classes, jQuery, JavaScript, functions, and CSS that initiate a survey to decide which remaining classes to take at Epicodus. My HTML and .js pages include comments to organize and continue building my webpage_
+_This web application acts as a city planner for colonists in route to Mars. It allows users to select one of four potential settlements and select/place buildings to generate a community. Users can submit finished community proposals, and colony officers can view all submitted community proposals._
 
 ## Setup/Installation Requirements
 
 * _Clone this repository_
     _To clone using Git, use the following terminal command:_
-    __
 * _Open in text editor of your choice_
-*
+* _blah de blah_
 
 ## Known Bugs
 
@@ -22,18 +21,27 @@ _No known bugs at this time_
 
 ## Support and contact details
 
+_Megan Kaluza_
+* _email:_
+
+_Marty Fitchen_
+* _email:_
+
+_Alex Jacks_
+* _email:_
+
+_Addison Nishijima_
+* _email:_
+
 ## Technologies Used
 
 _HTML_
 _CSS_
-_Bootstrap_
-_Google Fonts_
-_jQuery_
-_JavaScript_
+_Squirrelfont_
 
 ### License
 
-Copyright (c) 2016 **_Megan Kaluza_**
+Copyright (c) 2016 **_Megan Kaluza, Marty Fitchen, Alex Jacks, and Addison Nishijima_**
 
 This software is licensed under the MIT license.
 
@@ -41,4 +49,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
