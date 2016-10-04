@@ -10,10 +10,9 @@ _This web application acts as a city planner for colonists in route to Mars. It 
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-    _To clone using Git, use the following terminal command:_
+* _Open terminal of choice_
+* _To clone using Git, use the following terminal command:_
 * _Open in text editor of your choice_
-* _blah de blah_
 
 ## Known Bugs
 
