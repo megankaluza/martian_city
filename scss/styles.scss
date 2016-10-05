@@ -1,0 +1,24 @@
+@import "base/base";
+
+.intro {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../img/terra_forma_home.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img#logo {
+  width: 20vw;
+  height: auto;
+}
+
+.intro-title {
+  h1 {
+    letter-spacing: 1em;
+    margin-top: 3em;
+  }
+}
