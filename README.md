@@ -21,16 +21,16 @@ _No known bugs at this time_
 ## Support and contact details
 
 _Megan Kaluza_
-* _email:_
+* _email: megan.kaluza@gmail.com_
 
 _Marty Fitchen_
-* _email:_
+* _email: mfitchen@gmail.com_
 
 _Alex Jacks_
-* _email:_
+* _email: alexd.jacks@gmail.com_
 
 _Addison Nishijima_
-* _email:_
+* _email: addison.nishijima@gmail.com_
 
 ## Technologies Used
 
