@@ -65,11 +65,15 @@ img#logo {
         z-index: 100000;
         text-decoration: none;
         text-transform: uppercase;
-        color: pink;
+        color: lightgreen;
+        letter-spacing: 0.3em;
+      }
+      a.link-on-white-background {
+        color: hotpink;
       }
     }
   }
-  
+
   .image {
     a {
       img {
