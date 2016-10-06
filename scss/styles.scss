@@ -66,26 +66,28 @@ img#logo {
     }
   }
   .image {
-    img {
-      width: 100%;
-      height: auto;
-    }
-    img.img-process {
-      width: 75%;
-      height: auto;
-    }
-    img.city-image {
-      width: 100%;
-      height: auto;
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      z-index: 1;
+    a{      
+      img {
+        width: 100%;
+        height: auto;
+      }
+      img.img-process {
+        width: 75%;
+        height: auto;
+      }
+      img.city-image {
+        width: 100%;
+        height: auto;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        z-index: 1;
+      }
     }
   }
 }
 
-.img-solution, .img-process, .img-challenge {
+.img-solution, .img-process, .img-challenge, .img-results {
   margin-top: 6em;
 }
 

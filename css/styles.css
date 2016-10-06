@@ -59,13 +59,13 @@ img#logo {
         text-decoration: none;
         text-transform: uppercase;
         color: pink; }
-  .section-text-and-image .image img {
+  .section-text-and-image .image a img {
     width: 100%;
     height: auto; }
-  .section-text-and-image .image img.img-process {
+  .section-text-and-image .image a img.img-process {
     width: 75%;
     height: auto; }
-  .section-text-and-image .image img.city-image {
+  .section-text-and-image .image a img.city-image {
     width: 100%;
     height: auto;
     position: absolute;
@@ -73,7 +73,7 @@ img#logo {
     left: 0;
     z-index: 1; }
 
-.img-solution, .img-process, .img-challenge {
+.img-solution, .img-process, .img-challenge, .img-results {
   margin-top: 6em; }
 
 #overview, #results {
