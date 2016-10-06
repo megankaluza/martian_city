@@ -47,6 +47,9 @@ img#logo {
     font-size: 1.8em;
     line-height: 2em;
     letter-spacing: 0.1em; }
+  .section-text-and-image .image img {
+    width: 100%;
+    height: auto; }
 
 #overview, #results {
   background-color: #FFFFFF; }

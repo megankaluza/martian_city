@@ -52,6 +52,12 @@ img#logo {
       letter-spacing: 0.1em;
     }
   }
+  .image {
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
 }
 
 #overview, #results {
