@@ -32,6 +32,9 @@ img#logo {
   justify-content: center;
   align-items: center; }
 
+#overview {
+  position: relative; }
+
 .section-text-and-image {
   display: flex; }
   .section-text-and-image .text, .section-text-and-image .image {
@@ -50,6 +53,18 @@ img#logo {
   .section-text-and-image .image img {
     width: 100%;
     height: auto; }
+  .section-text-and-image .image img.img-process {
+    width: 75%;
+    height: auto; }
+  .section-text-and-image .image img.city-image {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    left: 0; }
+
+.img-solution, .img-process {
+  margin-top: 6em; }
 
 #overview, #results {
   background-color: #FFFFFF; }

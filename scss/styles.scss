@@ -32,6 +32,10 @@ img#logo {
   align-items: center;
 }
 
+#overview {
+  position: relative;
+}
+
 .section-text-and-image {
   display: flex;
   .text, .image {
@@ -57,7 +61,22 @@ img#logo {
       width: 100%;
       height: auto;
     }
+    img.img-process {
+      width: 75%;
+      height: auto;
+    }
+    img.city-image {
+      width: 100%;
+      height: auto;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+    }
   }
+}
+
+.img-solution, .img-process {
+  margin-top: 6em;
 }
 
 #overview, #results {
