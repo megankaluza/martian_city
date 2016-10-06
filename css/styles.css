@@ -40,16 +40,25 @@ img#logo {
   .section-text-and-image .text, .section-text-and-image .image {
     width: 50%;
     padding: 3em; }
-  .section-text-and-image .text h2 {
-    color: white;
-    font-size: 2.5em;
-    line-height: 2.8em;
-    letter-spacing: 0.25em; }
-  .section-text-and-image .text p {
-    color: white;
-    font-size: 1.8em;
-    line-height: 2em;
-    letter-spacing: 0.1em; }
+  .section-text-and-image .text {
+    z-index: 100000; }
+    .section-text-and-image .text h2 {
+      color: white;
+      font-size: 2.5em;
+      line-height: 2.8em;
+      letter-spacing: 0.25em;
+      z-index: 100000; }
+    .section-text-and-image .text p {
+      color: white;
+      font-size: 1.8em;
+      line-height: 2em;
+      letter-spacing: 0.1em;
+      z-index: 100000; }
+      .section-text-and-image .text p a {
+        z-index: 100000;
+        text-decoration: none;
+        text-transform: uppercase;
+        color: pink; }
   .section-text-and-image .image img {
     width: 100%;
     height: auto; }
@@ -61,9 +70,10 @@ img#logo {
     height: auto;
     position: absolute;
     bottom: 0;
-    left: 0; }
+    left: 0;
+    z-index: 1; }
 
-.img-solution, .img-process {
+.img-solution, .img-process, .img-challenge {
   margin-top: 6em; }
 
 #overview, #results {
