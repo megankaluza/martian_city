@@ -24,4 +24,42 @@ img#logo {
   letter-spacing: 1em;
   margin-top: 3em; }
 
+.section {
+  width: 100vw;
+  min-height: 100vh;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.section-text-and-image {
+  display: flex; }
+  .section-text-and-image .text, .section-text-and-image .image {
+    width: 50%;
+    padding: 3em; }
+  .section-text-and-image .text h2 {
+    color: white;
+    font-size: 2.5em;
+    line-height: 2.8em;
+    letter-spacing: 0.25em; }
+  .section-text-and-image .text p {
+    color: white;
+    font-size: 1.8em;
+    line-height: 2em;
+    letter-spacing: 0.1em; }
+
+#overview, #results {
+  background-color: #FFFFFF; }
+  #overview .section-text-and-image .text h2, #overview .section-text-and-image .text p, #results .section-text-and-image .text h2, #results .section-text-and-image .text p {
+    color: #000000; }
+
+#challenge {
+  background-color: #415D43; }
+
+#process {
+  background-color: #2E5266; }
+
+#solution {
+  background-color: #000000; }
+
 /*# sourceMappingURL=styles.css.map */
