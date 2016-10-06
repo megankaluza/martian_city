@@ -16,6 +16,9 @@ body {
   justify-content: center;
   align-items: center; }
 
+h3 {
+  color: steelblue; }
+
 img#logo {
   width: 20vw;
   height: auto; }
@@ -72,6 +75,10 @@ img#logo {
     bottom: 0;
     left: 0;
     z-index: 1; }
+  .section-text-and-image .image-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center; }
 
 .img-solution, .img-process, .img-challenge, .img-results {
   margin-top: 6em; }

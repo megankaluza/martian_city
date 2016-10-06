@@ -11,6 +11,10 @@
   align-items: center;
 }
 
+h3 {
+  color: steelblue;
+}
+
 img#logo {
   width: 20vw;
   height: auto;
@@ -65,8 +69,9 @@ img#logo {
       }
     }
   }
+  
   .image {
-    a{      
+    a {
       img {
         width: 100%;
         height: auto;
@@ -84,6 +89,11 @@ img#logo {
         z-index: 1;
       }
     }
+  }
+  .image-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
