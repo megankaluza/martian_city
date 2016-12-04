@@ -1,8 +1,8 @@
 # _Terra Forma_
 
-#### _Date:_
-
 #### By _**Megan Kaluza, Marty Fitchen, Alex Jacks, Addison Nishijima**_
+
+![screenshot](screen_shot.png)
 
 ## Description
 
@@ -11,7 +11,7 @@ _This web application acts as a city planner for colonists in route to Mars. It 
 ## Setup/Installation Requirements
 
 * _Open terminal of choice_
-* _To clone using Git, use the following terminal command:_
+* _To clone using Git, use the following terminal command: https://github.com/megankaluza/terra-forma.git_
 * _Open in text editor of your choice_
 
 ## Known Bugs
